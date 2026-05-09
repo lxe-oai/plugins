@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prism"
+  short_description: "Research, write, and revise papers in Prism"
+  icon_small: "../../../assets/prism-logo-color.png"
+  icon_large: "../../../assets/prism-logo-color.png"
+  default_prompt: "Use $prism to work on Prism papers: inspect projects, read files, and update LaTeX source through the connected Prism app."
